@@ -5,5 +5,7 @@ Ambiente de desarrollo donde se realizará el programa.
 ## Uso del programa
 
 ## Créditos
-
+David Arturo Razo Mandujano
+Matrícula: 2822686 
 ## Licencia 
+ 
