@@ -1,16 +1,18 @@
 # Ambiente-de-desarrollo
 Ambiente de desarrollo donde se realizará el programa.
 ## Instalación y configuración
-1. Kit de desarrollo de Java 11 instalado y configurado.
-2. Entorno integrado de desarrollo IntelliJ IDEA instalado y configurado.
-3. Sistema de control de versiones Git instalado y configurado.
-4. Cuenta en un servicio de repositorios en línea.
+La aplicación será totalmente portable, es decir, que se podrá ejecutar en cualquier sistema operativo que tenga instalado Java, para ello deberá ser configurada para compilarse como un archivo tipo FAT JAR y garantizar que todas las dependencias estarán incluidas.
+La aplicación contará con el manejo correcto de recursos y excepciones, es decir, si ocurre una excepción, el programa no saldrá, sino que seguirá ejecutándose y mostrará el mensaje de error en la pantalla.
 ## Uso del programa
-1. Dar de alta doctores.
-2. Dar de alta pacientes.
-3. Crear una cita con fecha y hora.
-4. Relacionar una cita con un doctor y un paciente.
-5. Tener control de acceso mediante administradores, esto es, solo ciertos usuarios podrán acceder al sistema mediante un identificador y una contraseña.
+En el uso del programa se podrán realizar las siguientes acciones:
+• Dar de alta doctores.
+• Dar de alta pacientes.
+• Crear una cita con fecha y hora.
+• Relacionar una cita con un doctor y un paciente.
+• Tener control de acceso mediante administradores, esto es, solo ciertos usuarios podrán acceder al sistema mediante un identificador y una contraseña.
+#### Para llegar a ser un:
+Programa en Java que simulará un sistema de administración de citas para un consultorio clínico.
+El producto final será un programa que simulará un sistema de administración de citas con las siguientes funcionalidades:
 ## Créditos
 David Arturo Razo Mandujano
 Matrícula: 2822686 
