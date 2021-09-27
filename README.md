@@ -12,7 +12,7 @@ En el uso del programa se podrán realizar las siguientes acciones:
 • Tener control de acceso mediante administradores, esto es, solo ciertos usuarios podrán acceder al sistema mediante un identificador y una contraseña.
 #### Para llegar a ser un:
 Programa en Java que simulará un sistema de administración de citas para un consultorio clínico.
-El producto final será un programa que simulará un sistema de administración de citas con las siguientes funcionalidades:
+El producto final será un programa que simulará un sistema de administración de citas con las funcionalidades mencionadas anteriormente.
 ## Créditos
 David Arturo Razo Mandujano
 Matrícula: 2822686 
